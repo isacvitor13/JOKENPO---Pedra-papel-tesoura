@@ -1,0 +1,21 @@
+.nome{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.nome>input{
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    /* padding: 5%  100px 5% 100px; */
+    padding: 15% 15%;
+    margin-bottom: 20px;
+}
+.nome>button{
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    padding: 5%  50px 5% 50px;
+    margin: 0px 20px;
+}
